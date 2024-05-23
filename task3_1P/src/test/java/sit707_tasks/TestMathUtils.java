@@ -9,7 +9,7 @@ import org.junit.Test;
 /**
  * @author Ahsan Habib
  */
-public class MathUtils {
+public class TestMathUtils {
 	
 	@Test
 	public void testStudentIdentity() {
