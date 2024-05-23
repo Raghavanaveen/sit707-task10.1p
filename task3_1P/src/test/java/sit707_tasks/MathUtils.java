@@ -9,7 +9,7 @@ import org.junit.Test;
 /**
  * @author Ahsan Habib
  */
-public class DateUtilTest {
+public class MathUtils {
 	
 	@Test
 	public void testStudentIdentity() {
